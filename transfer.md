@@ -1,5 +1,3 @@
-### T
-
 # 如何從VSC Upload到github雲端
 
 - git config --global user.email ""
